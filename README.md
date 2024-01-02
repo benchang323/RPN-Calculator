@@ -21,7 +21,7 @@ This Java project implements a simple calculator that uses a stack data structur
 
 ## Installation
 ```
-git clone https://github.com/yourusername/RPN-Calculator.git
+git clone https://github.com/benchang323/RPN-Calculator.git
 cd RPN-Calculator
 ```
 
